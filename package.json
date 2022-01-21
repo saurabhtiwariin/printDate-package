@@ -1,5 +1,5 @@
 {
-  "name": "@webinfer/getTodaysDate",
+  "name": "@webinfer/is-what-date-today",
   "version": "1.0.0",
   "description": "testing package",
   "main": "index.js",
